@@ -1,0 +1,34 @@
+http://dontpad.com/22deep
+
+Binary Cross-Entropy Descomplicada: https://www.youtube.com/watch?v=GdNmDQRdL2o 
+The Evolution of Gradient Descent: https://www.youtube.com/watch?v=nhqo0u1a6fw&t=23s 
+CNN Explainer: https://poloclub.github.io/cnn-explainer/ 
+
+https://medium.com/analytics-vidhya/ml06-893e4cb389c6
+
+https://github.com/karpathy/neuraltalk2
+
+Playground Tensorflow 
+https://playground.tensorflow.org/ 
+https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.21488&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+Neoronio MCP:
+https://colab.research.google.com/drive/1LgiGQJUOOpL7fwLphp6ffd61BWuLhpZy?usp=sharing
+
+Exemplo pre processamento MLP Dataset Titanic:
+https://colab.research.google.com/drive/1xniY221P4w9dKxbzUxpQFyM88FP_Habq?usp=sharing
+
+Regressão MLP dataset HousePricing:
+https://colab.research.google.com/drive/1WU_jNW4wgvn25zl7pXVnkcEyzGBGg-uV?usp=sharing
+
+CNN dataset fashion Mnist:
+https://colab.research.google.com/drive/13Hcd_0QTc7WCCjolFiBxRAiiBA7qK1Gr?usp=sharing
+
+CNN dataset CIFAR10 com salvamento no GDrive:
+https://colab.research.google.com/drive/1xq2nnROvqngFfI7an-eEPB232LBFFR34?usp=sharing
+
+CNN dataset digitos reais:
+https://colab.research.google.com/drive/1gCQiE_1m9O8R2IUIKCGm6VqYF9pQgJBd?usp=sharing
+
+Predição de Séries temporais LSTM - Electrical Production:
+https://colab.research.google.com/drive/1ajha8P-m_dTszxCDOXuVeKj_CQQpR8mB?usp=sharing
